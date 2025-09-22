@@ -58,15 +58,15 @@ const data = {
       items: [
         {
           title: "History",
-          url: "#",
+          url: "/history",
         },
         {
           title: "Starred",
-          url: "#",
+          url: "/starred",
         },
         {
           title: "Settings",
-          url: "#",
+          url: "/playground/settings",
         },
       ],
     },
@@ -77,15 +77,15 @@ const data = {
       items: [
         {
           title: "Genesis",
-          url: "#",
+          url: "/models",
         },
         {
           title: "Explorer",
-          url: "#",
+          url: "/explorer",
         },
         {
           title: "Quantum",
-          url: "#",
+          url: "/quantum",
         },
       ],
     },
@@ -96,19 +96,19 @@ const data = {
       items: [
         {
           title: "Introduction",
-          url: "#",
+          url: "/introduction",
         },
         {
           title: "Get Started",
-          url: "#",
+          url: "/get-started",
         },
         {
           title: "Tutorials",
-          url: "#",
+          url: "/tutorials",
         },
         {
           title: "Changelog",
-          url: "#",
+          url: "/changelog",
         },
       ],
     },
@@ -119,19 +119,19 @@ const data = {
       items: [
         {
           title: "General",
-          url: "#",
+          url: "/settings",
         },
         {
           title: "Team",
-          url: "#",
+          url: "/team",
         },
         {
           title: "Billing",
-          url: "#",
+          url: "/billings",
         },
         {
           title: "Limits",
-          url: "#",
+          url: "/limits",
         },
       ],
     },
