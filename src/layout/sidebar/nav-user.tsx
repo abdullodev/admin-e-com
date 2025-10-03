@@ -2,7 +2,7 @@
 
 import { BadgeCheck, ChevronsUpDown, LogOut } from "lucide-react";
 
-import { ThemeToggle } from "@/components/theme-toggle";
+import { ThemeToggle } from "@/components/common/theme-toggle";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import {
   DropdownMenu,

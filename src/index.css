@@ -55,8 +55,8 @@
   --popover: var(--card);
   --popover-foreground: var(--foreground);
 
-  /* Primary - Blue palette */
-  --primary: #3b82f6; /* Modern blue */
+  /* Primary - Updated to Vivid Sky Blue */
+  --primary: #0ea5e9; /* Modern, vibrant blue */
   --primary-foreground: #ffffff; /* White text on blue */
 
   /* Secondary - Light gray system */
@@ -87,20 +87,20 @@
   /* Borders / inputs */
   --border: #e2e8f0; /* Light border */
   --input: #f8fafc; /* Input background */
-  --ring: #3b82f6; /* Blue focus ring */
+  --ring: #0ea5e9; /* Updated to match primary */
 
   /* Sidebar - Light mode */
   --sidebar: #f8fafc; /* Light sidebar */
   --sidebar-foreground: var(--foreground);
-  --sidebar-primary: var(--primary);
-  --sidebar-primary-foreground: var(--primary-foreground);
-  --sidebar-accent: #eff6ff; /* Light blue hover */
+  --sidebar-primary: #0ea5e9; /* Updated to match primary */
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #e0f2fe; /* Light blue hover, adjusted for new primary */
   --sidebar-accent-foreground: var(--foreground);
   --sidebar-border: #e2e8f0; /* Light border */
-  --sidebar-ring: var(--ring);
+  --sidebar-ring: #0ea5e9; /* Updated to match primary */
 
-  /* Chart colors - Professional palette */
-  --chart-1: #3b82f6; /* Primary blue */
+  /* Chart colors - Updated to include new primary */
+  --chart-1: #0ea5e9; /* Primary blue */
   --chart-2: #10b981; /* Success green */
   --chart-3: #8b5cf6; /* Purple */
   --chart-4: #f59e0b; /* Warning amber */
@@ -119,8 +119,8 @@
   --popover: #252e3a; /* tooltipBgColor */
   --popover-foreground: var(--foreground);
 
-  /* Primary - Blue theme */
-  --primary: #3b82f6; /* Modern blue */
+  /* Primary - Updated to Vivid Sky Blue */
+  --primary: #0ea5e9; /* Modern, vibrant blue */
   --primary-foreground: #ffffff; /* Clean white */
 
   /* Secondary - Using your theme grays */
@@ -132,8 +132,8 @@
   --muted-foreground: #a0a8b3; /* secondaryTextColor */
 
   /* Accent - Blue tinted interactions */
-  --accent: rgba(59, 130, 246, 0.1); /* Blue with opacity */
-  --accent-foreground: #3b82f6; /* Blue text */
+  --accent: rgba(14, 165, 233, 0.1); /* Blue with opacity, adjusted for new primary */
+  --accent-foreground: #0ea5e9; /* Updated to match primary */
 
   /* Status colors - Using your error color and complementary colors */
   --success: #10b981; /* Modern green */
@@ -151,20 +151,20 @@
   /* Borders / inputs - Using your border colors */
   --border: #3b434e; /* borderColor */
   --input: #242a33; /* formBgColor */
-  --ring: #3b82f6; /* Blue focus ring */
+  --ring: #0ea5e9; /* Updated to match primary */
 
   /* Sidebar - Using your sidebar colors */
   --sidebar: #1a1f26; /* sidebar primaryBgColor */
   --sidebar-foreground: #c2c6cb; /* sidebar mainTextColor */
-  --sidebar-primary: #3b82f6; /* Blue primary */
+  --sidebar-primary: #0ea5e9; /* Updated to match primary */
   --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: rgba(59, 130, 246, 0.1); /* Blue hover */
-  --sidebar-accent-foreground: #3b82f6; /* Blue text */
+  --sidebar-accent: rgba(14, 165, 233, 0.1); /* Blue hover, adjusted for new primary */
+  --sidebar-accent-foreground: #0ea5e9; /* Updated to match primary */
   --sidebar-border: #3b434e; /* borderColor */
-  --sidebar-ring: var(--ring);
+  --sidebar-ring: #0ea5e9; /* Updated to match primary */
 
-  /* Chart colors - Blue-focused palette */
-  --chart-1: #3b82f6; /* Primary blue */
+  /* Chart colors - Updated to include new primary */
+  --chart-1: #0ea5e9; /* Primary blue */
   --chart-2: #10b981; /* Success green */
   --chart-3: #8b5cf6; /* Purple */
   --chart-4: #f59e0b; /* Warning amber */
